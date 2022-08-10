@@ -1,1 +1,46 @@
+.detail-page-row {
+    display: flex;
+}
 
+.add-user-btn {
+    background-color: gray;
+    color: white;
+    text-decoration: none;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.detail-img {
+    width: 100px;
+    height: 100px;
+}
+
+.edit-btn {
+    background-color: royalblue ;
+    color: white;
+    border-radius: 3px;
+}
+
+.delete-btn {
+    background-color: red;
+    color: white;
+    border-radius: 3px;
+}
+
+.edit-form-btns {
+    margin-top: 5px;
+}
+.cancel-btn {
+    border: 1px solid lightseagreen;
+    color: lightseagreen;
+    padding: 2px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.save-btn {
+    background-color: green;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
